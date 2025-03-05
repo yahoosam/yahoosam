@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yahoosam
 - 👀 Interested in Application Modernization, Microservices, K8s, and any new technologies that pokes my eye.
-- 🌱 Currently exploring GraphQL, Apache NiFi Curious to explore many in my list.
+- 🌱 Currently exploring pyspark, NiFi Curious to explore many in my list.
 - 💞️ I’m looking to collaborate on projects with similar interest.
 - 📫 How to reach me 👀
 
